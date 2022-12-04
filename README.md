@@ -1,7 +1,7 @@
 # LabIICG
 
 
-#Integrantes
+Integrantes:
 Juan David Cabrera	(1924619)
 Karen Daniela Moreno	(1922373)
 Álvaro Portocarrero	(1922171)
