@@ -3,11 +3,9 @@
 
 ## Integrantes
 
-Juan David Cabrera	(1924619)
-
-Karen Daniela Moreno	(1922373)
-
-Álvaro Portocarrero	(1922171)
+Juan David Cabrera	(1924619) 
+Karen Daniela Moreno	(1922373) 
+Álvaro Portocarrero	(1922171) 
 
 Implementación de los algoritmos de discretización de líneas y circunferencias.
 Además, se crea una interfaz gráfica que permite al usuario establecer el tamaño de un espacio coordenado (2d o 3d), permite el ingreso de  puntos en el espacio y grafica el resultado de los algoritmos de discretización de líneas y circunferencias visto en clase.
